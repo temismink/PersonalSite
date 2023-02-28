@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: black;
+  min-height: 29vh;
+  padding: 20px 10px;
+}
+
+/* .App-header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+} */
+
+main {
+  margin: 50px auto;
+  max-width: 800px;
+}
